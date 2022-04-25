@@ -104,3 +104,4 @@ tresult PLUGIN_API RoseSynthController::getParamValueByString (Vst::ParamID tag,
 
 //------------------------------------------------------------------------
 } // namespace MyCompanyName
+// nah this mf aint gon WORK
