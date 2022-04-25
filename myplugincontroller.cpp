@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------
 // Copyright(c) 2022 WeDemBoyz.
 //------------------------------------------------------------------------
-// TEST test test
+// TEST test test test
 #include "myplugincontroller.h"
 #include "myplugincids.h"
 #include "vstgui/plugin-bindings/vst3editor.h"
